@@ -1,0 +1,75 @@
+<html> 
+<head> <style>
+body {
+  background-image: linear-gradient(to top, #50cc7f 100%, #f5d100 100%);}
+</style>
+<title> Masala MAGGI  </title>
+</head>
+<body> 
+<br>
+
+	<TABLE style="width:70%" "height:70 ;" BORDER=3 BORDERCOLOR=cyan cellspacing=0 cellpadding=45 align="center">
+
+	<br><caption> <b>How to make a new type of dish using "Maggi Noodles"  </b> </caption>
+<TR>
+<TH rowspan="2"  HEIGHT="100" WIDTH="100"> Overview  </TH>
+<TH HEIGHT="100" WIDTH="100"> Preperation time </TH>
+<TH HEIGHT="100" WIDTH="100"> Cooking Time </TH>
+<TH HEIGHT="100" WIDTH="100"> Seriving </TH>
+<TH HEIGHT="100" WIDTH="100"> Calories  </TH>
+<TH HEIGHT="100" WIDTH="100"> Fats </TH>
+</TR>
+<TR>
+
+<TD HEIGHT="100"> 5 minutes </TD>
+<TD HEIGHT="100"> 5 minutes </TD>
+<td style="text-align:center">4</td>
+<TD HEIGHT="100"> 603 kcal </TD>
+<td style="text-align:center">25 g</td>
+</TR>
+</TABLE>
+<br>
+<table style="width:80%" "height:80 ;" BORDER=3 BORDERCOLOR=yellow cellspacing=0 cellpadding=45 align="center">
+<tr> 
+    <td>
+<b>
+	<h1>Ingredients</h1>
+<input type=checkbox name="test" value=2 > 
+Teaspoon oil<br>
+ <input type=checkbox name="test" value=2 > Clove garlic (finely chopped)<br>
+ <input type=checkbox name="test" value=½ > Onion (finely chopped)<br>
+ <input type=checkbox name="test" value=½ > Carrot (finely chopped)<br>
+ <input type=checkbox name="test" value=2 > 
+Tablespoon capsicum (chopped)<br>
+ <input type=checkbox name="test" value=½ > Tomato (chopped)<br>
+ <input type=checkbox name="test" value=2 > 
+Tablespoon sweet corn<br>
+ <input type=checkbox name="test" value=¼ > 
+Teaspoon turmeric<br>
+ <input type=checkbox name="test" value=½ > 
+Teaspoon chilli powder<br>
+ <input type=checkbox name="test" value=¼ > 
+Teaspoon salt<br>
+ <input type=checkbox name="test" value=1 > Cup water<br>
+ <input type=checkbox name="test" value=1 > Pack maggi noodles<br>
+ <input type=checkbox name="test" value=1 > Pack tastemaker<br>
+ <input type=checkbox name="test" value=2 > 
+Tablespoon coriander (finely chopped)<br> </b></td>
+
+<td> <h1>Cooking Process</h1> <h4>1 firstly, in pan heat 2 tsp oil and saute 2 clove garlic and ½ onion.
+2 add ½ carrot, 2 tbsp capsicum, ½ tomato and 2 tbsp sweet corn.
+<br><br>3 saute until the vegetables turn crunchy.
+<br><br>4 further add ¼ tsp turmeric, ½ tsp chilli powder, ¼ tsp salt and saute until the spices turn aromatic.
+<br><br>5 add 1 cup water and get to a boil.
+<br><br>6 now bread 1 pack maggi noodles roughly and add 1 pack tastemaker.
+<br><br>7 mix well and boil for 2 minutes or until the noodles are cooked well.
+<br><br>8 finally, add 2 tbsp coriander and enjoy masaledar maggi. </h4></td>
+</tr>
+</table>
+
+
+
+
+
+
+</HTML>
